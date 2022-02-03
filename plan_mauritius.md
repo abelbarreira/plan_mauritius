@@ -4,6 +4,7 @@
   - [References](#references)
   - [Destination](#destination)
   - [Dates :calendar:](#dates-calendar)
+  - [Weather :sunny:](#weather-sunny)
   - [Plan](#plan)
     - [<font color=blue>Vero's plan</font>](#font-colorblueveros-planfont)
     - [<font color=blue>Abel's plan</font>](#font-colorblueabels-planfont)
@@ -12,9 +13,11 @@
     - [Requirements](#requirements)
   - [Transportation :tractor:](#transportation-tractor)
     - [Renting Car](#renting-car)
-  - [Excursions / Visit](#excursions--visit)
+    - [By Taxi](#by-taxi)
   - [Food :cake:](#food-cake)
   - [Budget :euro:](#budget-euro)
+  - [Excursions / Visit](#excursions--visit)
+  - [Things to Pack](#things-to-pack)
 
 <div class="page"/>
 
@@ -22,6 +25,7 @@
 
 - [Wiki Page](https://en.wikipedia.org/wiki/Mauritius)
 - [Google Maps](https://www.google.com/maps/place/Mauritius/@-20.2402071,57.3944321,10.33z/data=!4m5!3m4!1s0x217c504df94474c9:0x4203d9c2116bd031!8m2!3d-20.348404!4d57.552152)
+- [Sir Seewoosagur Ramgoolam International Airport, MRU](https://en.wikipedia.org/wiki/Sir_Seewoosagur_Ramgoolam_International_Airport).
 
 ## Destination
 
@@ -30,6 +34,20 @@ Travel to **Mauritius Island** :sunny:, :sunglasses:, :palm_tree:, :bikini:, :tr
 ## Dates :calendar:
 
 In total, **three weeks**, from **Friday, 4th of March** to **Sunday, 27th of March** of 2022.
+
+It is Mauritius' shoulder season, which means less humid, lower prices, less visitors, perfect for diving/snorkeling, but raining expected.
+
+## Weather :sunny:
+
+- [Reference 1](https://www.holiday-weather.com/mauritius/averages/march/)
+- [Reference 2](https://www.thomascook.com/holidays/weather/indian-ocean/mauritius/march/)
+
+Average temperature in March:
+
+- Day: 28º to 30º
+- Night: 20º to 22º
+
+It is the **wet session** so we should expect a lot of rains.
 
 ## Plan
 
@@ -99,16 +117,21 @@ Think how we are doing:
 
 ### Renting Car
 
-- [450€ apróx., Sixt, for one week](https://www.sixt.global/car-rental/mauritius/flic-en-flac/mauritius-sugar-beach-resort?xaid=7994&c1=MU&c2=flic-en-flac&c3=mauritius-sugar-beach-resort&fir=1&utm_source=google_business&utm_medium=organic)
-- `todo` find other alternatives here.
+One week of simulation from 4th of March (10h00) to 11th of March (10h00), in the Airport.
 
-Adding some gasoline costs, on average, the cost can be set in **500€ = 3.800 DKK**.
+- [172€: OLA, Perodua Axia with GPS and Assistance](https://www.olamauritius.com/en/step-3/?id=48&txtFromDate=04/03/2022&txtToDate=11/03/2022&pickUpTime=10:00:00&dropOffTime=10:00:00&pickuploc=airport&difflocation=&dropoffloc=airport&pos=1).
+  - This option for three weeks: 452€.
+- [200€: Pingouin Car Rental, Kia Picanto with GPS](https://www.carrental-mauritius.com/).
+- [314€: Europcar, Kia Picanto Automatic with GPS](https://www.europcar.com/)
+- [330€: Sixt.Com, Kia Picanto with GPS](https://www.sixt.com/funnel/#/reservation/offerconfig?wakz=EUR).
+
+Gasoline is cheaper than in Denmark. Adding some gasoline costs, on average, the cost can be set in **500€ = 3.800 DKK**.
 
 > Note: In Mauritius, they drive by the **[left](https://mauritiusattractions.com/driving-in-mauritius-i-62.html)**.
 
-## Excursions / Visit
+### By Taxi
 
-- `todo` find alternatives here.
+- [Viator](https://www.viator.com/Trou-dEau-Douce-tours/Transfers-and-Ground-Transport/d24101-g15). From/To the Airport about **350 DKK** (or less).
 
 ## Food :cake:
 
@@ -130,3 +153,12 @@ Total:       15.000 DKK
 ```
 
 So, we should pay around **7.500 DKK** by each.
+
+## Excursions / Visit
+
+- Sailing, Diving
+- `todo` find alternatives here.
+
+## Things to Pack
+
+- Rain jacket, rain cloths.
