@@ -1,6 +1,7 @@
 # Plan Mauritius
 
 - [Plan Mauritius](#plan-mauritius)
+  - [Todo](#todo)
   - [References](#references)
   - [Destination](#destination)
   - [Dates :calendar:](#dates-calendar)
@@ -21,11 +22,25 @@
 
 <div class="page"/>
 
+## <font color=red>Todo</font>
+
+1. Mainly think about **how** to manage the plan, eg.:
+  - Opt1: 1st work, 2nd and 3rd off
+  - Opt2: 1st off, 2nd work, 3rd off
+  - Opt3: 1st off, 2nd off, 3rd off
+  
+  > I think the **Opt1** is the best.
+  
+2. Once decided this, then decide about **where** to rent the apartment for each week and/or if would be needed to **rent a car** or not.
+3. Prepare the global budget, assess it, approve it and start to buy the flights and rent the apartments.
+4. Save the dates in the office.
+
+  
 ## References
 
 - [Wiki Page](https://en.wikipedia.org/wiki/Mauritius)
 - [Google Maps](https://www.google.com/maps/place/Mauritius/@-20.2402071,57.3944321,10.33z/data=!4m5!3m4!1s0x217c504df94474c9:0x4203d9c2116bd031!8m2!3d-20.348404!4d57.552152)
-- [Sir Seewoosagur Ramgoolam International Airport, MRU](https://en.wikipedia.org/wiki/Sir_Seewoosagur_Ramgoolam_International_Airport).
+- [Sir Seewoosagur Ramgoolam International Airport, MRU](https://en.wikipedia.org/wiki/Sir_Seewoosagur_Ramgoolam_International_Airport)
 
 ## Destination
 
