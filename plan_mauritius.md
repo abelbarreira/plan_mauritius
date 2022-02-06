@@ -86,11 +86,13 @@ Abel's office is in [NeXTeracom Tower 1 @ Ebene area](https://www.google.com/map
 
 ## Flights :airplane:
 
-It takes around **16h**, having a connection of almost 3h in **Dubai DXB**, with `EK` Emirates.
+Travel to Mauritius through Paris (CDG, Charles de Gaulle Airport).
 
-Another options is travelling by Frankfurt (FRA) with SAS or Lufthansa and or París Charles de Gaulle (CDG) with Air Mauritius.
+1. Book the flight from CPH to CDG on **Thursday, 3rd of March @ 9h30**, one way, about **314DKK** with Easyjet. It arrives at **11h35**.
+2. Book the flight with Air Mauritius on **Friday, 3rd March @ 16h20** to **Thursday, 24th of March**. This cost **712€**. [Reference](https://booking.airmauritius.com/plnext/AirMauritiusDX/Override.action#/FPOW). It arrives at 7h35 on 25 March.
+3. The idea is chose flexibility to the Air Mauritius flights so we can decide when to come back to Paris and stay there some days.
 
-On average, the cost can be set in **700€ = 5.200 DKK**.
+ Approximate budget is  **6.000DKK**.
 
 <div class="page"/>
 
@@ -120,7 +122,12 @@ The idea is to rent one AirBNB for the three weeks. There are three options:
     - [472€, Close Beach, 45min (or more) by car to the office](https://www.airbnb.com/rooms/1161522?adults=2&location=Mauritius&check_in=2022-03-02&check_out=2022-03-25&previous_page_section_name=1001&federated_search_id=95e55a18-26c4-463b-9489-bce60ffb19a8).
     - ~~[441€, Close Beach, 45min (or more) by car to the office](https://www.airbnb.com/rooms/36174529?adults=2&check_in=2022-03-04&check_out=2022-03-26&previous_page_section_name=1000&federated_search_id=07630f7d-4310-43c1-8a58-2e19e00c038c)~~.
 
-On average, the cost can be set in **500€ = 3.800 DKK**.
+
+Opt1, from 4th to 12th by **172e**.
+Opt3, from 12th to 24th by **420e**.
+ https://www.airbnb.co.uk/rooms/1790970?check_out=2022-03-24&check_in=2022-03-12&adults=2&guests=2&s=42&unique_share_id=bcc9b008-a017-4d1e-85cd-bb8bbb01569b
+
+On average, the cost can be set in **600€ = 4.400 DKK**.
 
 ### Requirements
 
@@ -166,15 +173,15 @@ Expenses in food can be the same, or cheaper than here in Denmark.
 In the island they use the **Mauritian rupee** where `100 DKK = 668,96 MRU`.
 
 ```txt
-Flights       5.200 DKK
-AirBNB        3.800 DKK (three weeks)
-Car           3.800 DKK (one week)
-Extra Costs   2.200 DKK
+Flights         12.000 DKK
+AirBNB           4.400 DKK (three weeks)
+Car              3.800 DKK (one week)
+Extra Costs      3.800 DKK
 
-Total:       15.000 DKK
+Total:          24.000 DKK
 ```
 
-So, we should pay around **7.500 DKK** by each.
+So, we should pay around **12.000 DKK** by each.
 
 ## Excursions / Visit
 
