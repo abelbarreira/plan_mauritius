@@ -34,6 +34,7 @@
 2. Once decided this, then decide about **where** to rent the apartment for each week and/or if would be needed to **rent a car** or not.
 3. Prepare the global budget, assess it, approve it and start to buy the flights and rent the apartments.
 4. Save the dates in the office.
+5. Check COVID restrictions and/or certificates.
 
   
 ## References
@@ -45,6 +46,12 @@
 ## Destination
 
 Travel to **Mauritius Island** :sunny:, :sunglasses:, :palm_tree:, :bikini:, :tropical_drink:. Yuhuuuu!!!
+
+### Travel Requirements
+
+* **Passport** must be valid for at least <font color="red">**6 months**</font>.
+* EU COVID Vaccination Certificates.
+* Negative PCR within 72h.
 
 ## Dates :calendar:
 
