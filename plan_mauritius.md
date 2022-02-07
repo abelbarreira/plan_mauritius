@@ -1,9 +1,10 @@
 # Plan Mauritius
 
 - [Plan Mauritius](#plan-mauritius)
-  - [Todo](#todo)
+  - [<font color=red>Todo</font>](#font-colorredtodofont)
   - [References](#references)
   - [Destination](#destination)
+    - [Travel Requirements](#travel-requirements)
   - [Dates :calendar:](#dates-calendar)
   - [Weather :sunny:](#weather-sunny)
   - [Plan](#plan)
@@ -25,18 +26,17 @@
 ## <font color=red>Todo</font>
 
 1. Mainly think about **how** to manage the plan, eg.:
-  - Opt1: 1st work, 2nd and 3rd off
-  - Opt2: 1st off, 2nd work, 3rd off
-  - Opt3: 1st off, 2nd off, 3rd off
-  
-  > I think the **Opt1** is the best.
-  
+   1. Option 1: 1st work, 2nd and 3rd off
+   2. Option 2: 1st off, 2nd work, 3rd off
+   3. Option 3: 1st off, 2nd off, 3rd off
+
+  > I think the **Option 1** is the best.
+
 2. Once decided this, then decide about **where** to rent the apartment for each week and/or if would be needed to **rent a car** or not.
 3. Prepare the global budget, assess it, approve it and start to buy the flights and rent the apartments.
 4. Save the dates in the office.
 5. Check COVID restrictions and/or certificates.
 
-  
 ## References
 
 - [Wiki Page](https://en.wikipedia.org/wiki/Mauritius)
@@ -98,7 +98,7 @@ Travel to Mauritius through Paris (CDG, Charles de Gaulle Airport).
 
 ## Accommodation :house_with_garden:
 
-The idea is to rent one AirBNB for the three weeks. There are three options:
+Following are the different options that we have now:
 
 - Option 1: Close to the office (not in the beach):
   - [502€: 18 min to the office](https://www.airbnb.com/rooms/35324192?adults=2&location=Mauritius&check_in=2022-03-02&check_out=2022-03-25&previous_page_section_name=1001&federated_search_id=f4e2ef97-9eb2-4a16-9fe7-f9cdba7aec6b).
@@ -113,7 +113,8 @@ The idea is to rent one AirBNB for the three weeks. There are three options:
   - `todo` find other options around this area.
 - Option 3: In the beach, far from away the office (cheaper):
   - Flic en Flac:
-    - [498€:  4min (or less) to the Beach, 40min by car to the office](https://www.airbnb.com/rooms/42735237?adults=2&location=Mauritius&check_in=2022-03-02&check_out=2022-03-25&previous_page_section_name=1001&federated_search_id=f347461f-5d28-4117-9c8f-4006cf1ce251).
+    - ~~[498€:  4min (or less) to the Beach, 40min by car to the office](https://www.airbnb.com/rooms/42735237?adults=2&location=Mauritius&check_in=2022-03-02&check_out=2022-03-25&previous_page_section_name=1001&federated_search_id=f347461f-5d28-4117-9c8f-4006cf1ce251)~~.
+      - Excluded: No enough commodities, like washing machine.
   - North:
     - [355€, Closest beach doesn't looks nice?](https://www.airbnb.com/rooms/2684167?adults=2&location=Mauritius&check_in=2022-03-02&check_out=2022-03-25&previous_page_section_name=1001&federated_search_id=40e307a5-c4c8-44cc-b7a8-bbf4368fcf88).
   - More North:
@@ -122,10 +123,12 @@ The idea is to rent one AirBNB for the three weeks. There are three options:
     - [472€, Close Beach, 45min (or more) by car to the office](https://www.airbnb.com/rooms/1161522?adults=2&location=Mauritius&check_in=2022-03-02&check_out=2022-03-25&previous_page_section_name=1001&federated_search_id=95e55a18-26c4-463b-9489-bce60ffb19a8).
     - ~~[441€, Close Beach, 45min (or more) by car to the office](https://www.airbnb.com/rooms/36174529?adults=2&check_in=2022-03-04&check_out=2022-03-26&previous_page_section_name=1000&federated_search_id=07630f7d-4310-43c1-8a58-2e19e00c038c)~~.
 
+So the plan can be as following:
 
-Opt1, from 4th to 12th by **172e**.
-Opt3, from 12th to 24th by **420e**.
- https://www.airbnb.co.uk/rooms/1790970?check_out=2022-03-24&check_in=2022-03-12&adults=2&guests=2&s=42&unique_share_id=bcc9b008-a017-4d1e-85cd-bb8bbb01569b
+- **First week**, from 4th to 12th, renting this apartment close to office [172€: 18 min to the office](https://www.airbnb.com/rooms/35324192?adults=2&location=Mauritius&check_in=2022-03-02&check_out=2022-03-25&previous_page_section_name=1001&federated_search_id=f4e2ef97-9eb2-4a16-9fe7-f9cdba7aec6b).
+  - So I can walk to work to the office.
+  - But it is not close to the beach, so we have to see how/where we can reach the beach this week?
+- **Second and Third weeks**, from 12th to 24th, [420€, in the Trou aux Biches, North](https://www.airbnb.co.uk/rooms/1790970?check_out=2022-03-24&check_in=2022-03-12&adults=2&guests=2&s=42&unique_share_id=bcc9b008-a017-4d1e-85cd-bb8bbb01569b)
 
 On average, the cost can be set in **600€ = 4.400 DKK**.
 
