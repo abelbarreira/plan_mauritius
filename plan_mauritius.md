@@ -63,13 +63,12 @@ It is Mauritius' shoulder season, which means less humid, lower prices, less vis
 
 - [Reference 1](https://www.holiday-weather.com/mauritius/averages/march/)
 - [Reference 2](https://www.thomascook.com/holidays/weather/indian-ocean/mauritius/march/)
+- [Reference 3](https://mauritiusattractions.com/mauritius-rainfall-in-mauritius-i-111.html)
 
-Average temperature in March:
+March is the **wet session** so we should expect a lot of rains, with good temperature and humidity. But this depends on the region.
 
-- Day: 28º to 30º
-- Night: 20º to 22º
-
-It is the **wet session** so we should expect a lot of rains.
+- Please, read it directly in the [Reference 3](https://mauritiusattractions.com/mauritius-rainfall-in-mauritius-i-111.html).
+- Please, read about [the different regions here](https://www.mauritius.io/locations).
 
 ## Plan
 
