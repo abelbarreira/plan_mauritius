@@ -11,6 +11,7 @@
     - [<font color=blue>Vero's plan</font>](#font-colorblueveros-planfont)
     - [<font color=blue>Abel's plan</font>](#font-colorblueabels-planfont)
   - [Flights :airplane:](#flights-airplane)
+    - [Some options for direct flights (2022-02-08 14:50)](#some-options-for-direct-flights-2022-02-08-1450)
   - [Accommodation :house_with_garden:](#accommodation-house_with_garden)
     - [Requirements](#requirements)
   - [Transportation :tractor:](#transportation-tractor)
@@ -49,9 +50,9 @@ Travel to **Mauritius Island** :sunny:, :sunglasses:, :palm_tree:, :bikini:, :tr
 
 ### Travel Requirements
 
-* **Passport** must be valid for at least <font color="red">**6 months**</font>.
-* EU COVID Vaccination Certificates.
-* Negative PCR within 72h.
+- **Passport** must be valid for at least <font color="red">**6 months**</font>.
+- EU COVID Vaccination Certificates.
+- Negative PCR within 72h.
 
 ## Dates :calendar:
 
@@ -90,8 +91,29 @@ Travel to Mauritius through Paris (CDG, Charles de Gaulle Airport).
 1. Book the flight from CPH to CDG on **Thursday, 3rd of March @ 9h30**, one way, about **314DKK** with Easyjet. It arrives at **11h35**.
 2. Book the flight with Air Mauritius on **Friday, 3rd March @ 16h20** to **Thursday, 24th of March**. This cost **712€**. [Reference](https://booking.airmauritius.com/plnext/AirMauritiusDX/Override.action#/FPOW). It arrives at 7h35 on 25 March.
 3. The idea is chose flexibility to the Air Mauritius flights so we can decide when to come back to Paris and stay there some days.
+   1. Or, the another idea is buy the return flights already in Mauritius, when we have decided when and how we want to come back.
 
  Approximate budget is  **6.000DKK**.
+
+### Some options for direct flights (2022-02-08 14:50)
+
+| Date           | Total Travel Time | Start Time | Scale           | Price  |
+| -------------- | ----------------- | ---------- | --------------- | ------ |
+| 1st of March   | 16h               | 14h20      | DXB (Dubai)     | 603e   |
+| 2nd of March   | 18h               | 10h00      | FRA (Frankfurt) | 391e   |
+| 3rd of March   | 20h               | 07h55      | ZRU (Zurich)    | 403e   |
+|                | 19h               | 09h35      | ZRU             | 460e   |
+| **4th of March | 15h               | 13h05      | FRA             | 389e** |
+| 5th of March   | -                 | -          | -               | -      |
+| 6th of March   | 18h               | 10h00      | FRA             | 390e   |
+| 7th of March   | -                 | -          | -               | -      |
+| 8th of March   | 20h               | 09h35      | ZRU             | 403e   |
+
+>
+> **4th of March is the fast and the cheapest**!
+>
+> 5th and 7th of March: Flights are more expensive with more total travel time.
+>
 
 <div class="page"/>
 
