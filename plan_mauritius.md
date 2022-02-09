@@ -11,8 +11,6 @@
     - [<font color=blue>Abel's plan</font>](#font-colorblueabels-planfont)
   - [Weather :sunny:](#weather-sunny)
   - [Flights :airplane:](#flights-airplane)
-    - [Some options for direct flights (2022-02-08 14:50)](#some-options-for-direct-flights-2022-02-08-1450)
-    - [Budget Flights](#budget-flights)
   - [Accommodation :house_with_garden:](#accommodation-house_with_garden)
     - [Requirements](#requirements)
   - [Transportation :tractor:](#transportation-tractor)
@@ -86,41 +84,26 @@ March is cyclones season, so it can happen two things: either it rains all the t
 
 ## Flights :airplane:
 
-Travel to Mauritius through Paris (CDG, Charles de Gaulle Airport).
-
-1. Book the flight from CPH to CDG on **Thursday, 3rd of March @ 9h30**, one way, about **314DKK** with Easyjet. It arrives at **11h35**.
-2. Book the flight with Air Mauritius on **Friday, 3rd March @ 16h20** to **Thursday, 24th of March**. This cost **712€**. [Reference](https://booking.airmauritius.com/plnext/AirMauritiusDX/Override.action#/FPOW). It arrives at 7h35 on 25 March.
-3. The idea is chose flexibility to the Air Mauritius flights so we can decide when to come back to Paris and stay there some days.
-   1. Or, the another idea is buy the return flights already in Mauritius, when we have decided when and how we want to come back.
-
- Approximate budget is  **6.000DKK**.
-
-### Some options for direct flights (2022-02-08 14:50)
-
-| Date           | Total Travel Time | Start Time | Scale           | Price  |
-| -------------- | ----------------- | ---------- | --------------- | ------ |
-| 1st of March   | 16h               | 14h20      | DXB (Dubai)     | 603e   |
-| 2nd of March   | 18h               | 10h00      | FRA (Frankfurt) | 391e   |
-| 3rd of March   | 20h               | 07h55      | ZRU (Zurich)    | 403e   |
-|                | 19h               | 09h35      | ZRU             | 460e   |
-| **4th of March | 15h               | 13h05      | FRA             | 389e** |
-| 5th of March   | -                 | -          | -               | -      |
-| 6th of March   | 18h               | 10h00      | FRA             | 390e   |
-| 7th of March   | -                 | -          | -               | -      |
-| 8th of March   | 20h               | 09h35      | ZRU             | 403e   |
-
->
-> **4th of March is the fast and the cheapest**!
->
-> 5th and 7th of March: Flights are more expensive with more total travel time.
->
-
-### Budget Flights
+Flights already booked with [Ticket.DK](https://www.ticket.dk/).
 
 ```txt
-Going to Mauritius:    400€
-Return from Mauritius: 473€
-Total                  850€ by person = 6.500 DKK
+Condor
+13:05 København (CPH) 	14:30 Frankfurt Intl (FRA)
+  4 mar. LH827 	4 mar.
+16:10 Frankfurt Intl (FRA) 	06:40 Mauritius Sir S Ramgoolam Intl (MRU)
+  4 mar. DE2314 	5 mar.
+
+Cost 6.580 / 2 = 3290 dkk by person.
+```
+
+We will book the return flights already in Mauritius, when we have decided when and how we want to come back.
+
+Some budget estimations are:
+
+```txt
+Going to Mauritius:    3290 dkk
+Return from Mauritius: 3710 dkk
+Total                  7000 DKK
 ```
 
 <div class="page"/>
@@ -207,15 +190,15 @@ Expenses in food can be the same, or cheaper than here in Denmark.
 In the island they use the **Mauritian rupee** where `100 DKK = 668,96 MRU`.
 
 ```txt
-Flights          6.500 DKK * 2 = 13.000 DKK
+Flights          7.000 DKK * 2 = 14.000 DKK
 AirBNB           4.400 DKK (three weeks)
 Car              3.800 DKK (one week)
 Extra Costs      3.800 DKK
 
-Total:          25.000 DKK
+Total:          26.000 DKK
 ```
 
-So, we should pay around **12.500 DKK** by each.
+So, we should pay around **13.000 DKK** by each.
 
 ## Excursions / Visit
 
