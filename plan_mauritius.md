@@ -12,6 +12,7 @@
   - [Weather :sunny:](#weather-sunny)
   - [Flights :airplane:](#flights-airplane)
     - [Some options for direct flights (2022-02-08 14:50)](#some-options-for-direct-flights-2022-02-08-1450)
+    - [Budget Flights](#budget-flights)
   - [Accommodation :house_with_garden:](#accommodation-house_with_garden)
     - [Requirements](#requirements)
   - [Transportation :tractor:](#transportation-tractor)
@@ -114,6 +115,14 @@ Travel to Mauritius through Paris (CDG, Charles de Gaulle Airport).
 > 5th and 7th of March: Flights are more expensive with more total travel time.
 >
 
+### Budget Flights
+
+```txt
+Going to Mauritius:    400€
+Return from Mauritius: 473€
+Total                  850€ by person = 6.500 DKK
+```
+
 <div class="page"/>
 
 ## Accommodation :house_with_garden:
@@ -198,15 +207,15 @@ Expenses in food can be the same, or cheaper than here in Denmark.
 In the island they use the **Mauritian rupee** where `100 DKK = 668,96 MRU`.
 
 ```txt
-Flights         12.000 DKK
+Flights          6.500 DKK * 2 = 13.000 DKK
 AirBNB           4.400 DKK (three weeks)
 Car              3.800 DKK (one week)
 Extra Costs      3.800 DKK
 
-Total:          24.000 DKK
+Total:          25.000 DKK
 ```
 
-So, we should pay around **12.000 DKK** by each.
+So, we should pay around **12.500 DKK** by each.
 
 ## Excursions / Visit
 
