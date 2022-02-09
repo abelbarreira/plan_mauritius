@@ -27,12 +27,9 @@
 
 So, next actions has to be done:
 
-1. Final checks of **apartments** availabilities and do the simulation of the booking.
-2. Final checks of the **flights** availabilities and prices.
-3. Book the flights to go to there.
-4. Book the **apartments** (both).
-5. Save the dates in the office.
-6. Check COVID restrictions and/or certificates.
+1. Book the **apartments** (both).
+2. Save the dates in the office.
+3. Check COVID restrictions and/or certificates.
 
 ## References
 
