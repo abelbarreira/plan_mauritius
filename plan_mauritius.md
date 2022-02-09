@@ -147,7 +147,10 @@ So the plan can be as following:
 - **First week**, from 4th to 12th, renting this apartment close to office [172€: 18 min to the office](https://www.airbnb.com/rooms/35324192?adults=2&location=Mauritius&check_in=2022-03-02&check_out=2022-03-25&previous_page_section_name=1001&federated_search_id=f4e2ef97-9eb2-4a16-9fe7-f9cdba7aec6b).
   - So I can walk to work to the office.
   - But it is not close to the beach, so we have to see how/where we can reach the beach this week?
-- **Second and Third weeks**, from 12th to 24th, [420€, in the Trou aux Biches, North](https://www.airbnb.co.uk/rooms/1790970?check_out=2022-03-24&check_in=2022-03-12&adults=2&guests=2&s=42&unique_share_id=bcc9b008-a017-4d1e-85cd-bb8bbb01569b)
+- **Second and Third weeks**, from 12th to 24th
+  - In the North: [420€, in the Trou aux Biches, North](https://www.airbnb.co.uk/rooms/1790970?check_out=2022-03-24&check_in=2022-03-12&adults=2&guests=2&s=42&unique_share_id=bcc9b008-a017-4d1e-85cd-bb8bbb01569b)
+  - In the West: [418€, Flic en Flac beach](https://www.airbnb.com/rooms/27955271?adults=2&location=Mauritius&check_in=2022-03-12&check_out=2022-03-24&federated_search_id=96752acf-181f-4bcf-820c-2828700df297&source_impression_id=p3_1644436908_rSPV%2FvKjudrs0dLn).
+  - In the West: [458€, Flic en Flac beach](https://www.airbnb.com/rooms/22158584?adults=2&location=Mauritius&check_in=2022-03-12&check_out=2022-03-24&federated_search_id=00640e2f-2161-462f-a7e8-8cb354605258&source_impression_id=p3_1644437327_sHTQvdwdtc%2F0iI1G).
 
 On average, the cost can be set in **600€ = 4.400 DKK**.
 
