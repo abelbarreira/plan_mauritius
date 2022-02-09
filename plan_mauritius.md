@@ -6,10 +6,10 @@
   - [Destination](#destination)
     - [Travel Requirements](#travel-requirements)
   - [Dates :calendar:](#dates-calendar)
-  - [Weather :sunny:](#weather-sunny)
   - [Plan](#plan)
     - [<font color=blue>Vero's plan</font>](#font-colorblueveros-planfont)
     - [<font color=blue>Abel's plan</font>](#font-colorblueabels-planfont)
+  - [Weather :sunny:](#weather-sunny)
   - [Flights :airplane:](#flights-airplane)
     - [Some options for direct flights (2022-02-08 14:50)](#some-options-for-direct-flights-2022-02-08-1450)
   - [Accommodation :house_with_garden:](#accommodation-house_with_garden)
@@ -26,17 +26,14 @@
 
 ## <font color=red>Todo</font>
 
-1. Mainly think about **how** to manage the plan, eg.:
-   1. Option 1: 1st work, 2nd and 3rd off
-   2. Option 2: 1st off, 2nd work, 3rd off
-   3. Option 3: 1st off, 2nd off, 3rd off
+So, next actions has to be done:
 
-  > I think the **Option 1** is the best.
-
-2. Once decided this, then decide about **where** to rent the apartment for each week and/or if would be needed to **rent a car** or not.
-3. Prepare the global budget, assess it, approve it and start to buy the flights and rent the apartments.
-4. Save the dates in the office.
-5. Check COVID restrictions and/or certificates.
+1. Final checks of **apartments** availabilities and do the simulation of the booking.
+2. Final checks of the **flights** availabilities and prices.
+3. Book the flights to go to there.
+4. Book the **apartments** (both).
+5. Save the dates in the office.
+6. Check COVID restrictions and/or certificates.
 
 ## References
 
@@ -60,6 +57,19 @@ In total, **three weeks**, from **Friday, 4th of March** to **Sunday, 27th of Ma
 
 It is Mauritius' shoulder season, which means less humid, lower prices, less visitors, perfect for diving/snorkeling, but raining expected.
 
+## Plan
+
+### <font color=blue>Vero's plan</font>
+
+Vero gets the **three weeks** of holidays, to enjoy running around the island :running:...
+
+### <font color=blue>Abel's plan</font>
+
+Abel works the **first week** over there and then gets **two weeks** of holidays.
+Abel can work from the Valid's office in the island or from the Apartment (in case Wifi is enough good).
+
+Abel's office is in [NeXTeracom Tower 1 @ Ebene area](https://www.google.com/maps/place/NeXTeracom+Tower+1,+Quatre+Bornes,+Mauritius/@-20.2429762,57.4872387,18.08z/data=!4m5!3m4!1s0x217c5ae1d1f68fc9:0xf67722ad33dc19d!8m2!3d-20.2424442!4d57.4884947).
+
 ## Weather :sunny:
 
 - [Reference 1](https://www.holiday-weather.com/mauritius/averages/march/)
@@ -71,18 +81,7 @@ March is the **wet session** so we should expect a lot of rains, with good tempe
 - Please, read it directly in the [Reference 3](https://mauritiusattractions.com/mauritius-rainfall-in-mauritius-i-111.html).
 - Please, read about [the different regions here](https://www.mauritius.io/locations).
 
-## Plan
-
-### <font color=blue>Vero's plan</font>
-
-Vero gets the **three weeks** of holidays, to enjoy running around the island :running:...
-
-### <font color=blue>Abel's plan</font>
-
-Abel gets **two weeks** of holidays and **one week** of working over there.
-Abel can work from the Valid's office in the island or from the Apartment (in case Wifi is enough good).
-
-Abel's office is in [NeXTeracom Tower 1 @ Ebene area](https://www.google.com/maps/place/NeXTeracom+Tower+1,+Quatre+Bornes,+Mauritius/@-20.2429762,57.4872387,18.08z/data=!4m5!3m4!1s0x217c5ae1d1f68fc9:0xf67722ad33dc19d!8m2!3d-20.2424442!4d57.4884947).
+March is cyclones season, so it can happen two things: either it rains all the time or it is really good weather (with 30 degrees), but nothing is assured since is cyclones season.
 
 ## Flights :airplane:
 
@@ -131,7 +130,6 @@ Following are the different options that we have now:
 - Option 2: In the beach, in e.g. Albion, not so far way from the office:
   - [315€, 15min (or less) to the Beach, 20min by car to the office](https://www.airbnb.com/rooms/38558443?adults=2&location=Mauritius&check_in=2022-03-02&check_out=2022-03-25&previous_page_section_name=1001&federated_search_id=9eadc50c-bc56-4822-85c3-319252b19d36).
   - [758€, 20min (or less) to the Beach, 25min by car to the office](https://www.airbnb.com/rooms/18689434?adults=2&location=Mauritius&check_in=2022-03-02&check_out=2022-03-25&previous_page_section_name=1001&federated_search_id=caea6dc4-25fa-42c8-a3f2-b726d70e20b1).
-  - `todo` find other options around this area.
 - Option 3: In the beach, far from away the office (cheaper):
   - Flic en Flac:
     - ~~[498€:  4min (or less) to the Beach, 40min by car to the office](https://www.airbnb.com/rooms/42735237?adults=2&location=Mauritius&check_in=2022-03-02&check_out=2022-03-25&previous_page_section_name=1001&federated_search_id=f347461f-5d28-4117-9c8f-4006cf1ce251)~~.
@@ -214,4 +212,5 @@ So, we should pay around **12.000 DKK** by each.
 
 ## Things to Pack
 
+- Passport.
 - Rain jacket, rain cloths.
