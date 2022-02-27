@@ -1,7 +1,0 @@
-#!/bin/bash
-
-# docker run -it --rm -v "/$PWD://lab" throwtheswitch/drsurly-course2:latest
-# docker run -it --rm -v "/$PWD://opt/docs" auchida/markdown-pdf markdown-pdf -o docs.pdf example_abelo.md
-# docker run -it --rm -v "/$PWD" auchida/markdown-pdf markdown-pdf -o docs.pdf plan_mauritius.md
-
-docker run -v "/$PWD:/opt/docs" pistatium/markdown-pdf:9.0.0 markdown-pdf -o docs.pdf example_abelo.md
