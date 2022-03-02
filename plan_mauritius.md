@@ -46,15 +46,16 @@ Travel to **Mauritius Island** :sunny:, :sunglasses:, :palm_tree:, :bikini:, :tr
 
 - [x] **Passport** must be valid for at least <font color="red">**6 months**</font>.
 - [x] EU COVID Vaccination Certificates.
-- [ ] Negative PCR test taken within 72 hours before departure.
+- [x] Negative PCR test taken within 72 hours before departure.
 - [x] It is mandatory to arrange COVID-19 insurance health cover.
-  - [ ] Get the certificate from Tryg @ Task for **Vero**.
-- [ ] You will be required to take a free PCR test on arrival at the airport (day 0). You can explore the island after you receive a negative result from your PCR test on day 0.
-- [ ] Any document form for Germany?? @ Task for **Vero**.
+  - [x] Get the certificate from Tryg @ Task for **Vero**.
+- [x] You will be required to take a free PCR test on arrival at the airport (day 0). You can explore the island after you receive a negative result from your PCR test on day 0.
+- [x] Any document form for Germany?? @ Task for **Vero**.
 - [ ] Wear the special FaceMask (those white ones). Where to buy them? @ Task for **Vero**.
 - [ ] All travellers must fill out the [**Mandatory Health Forms**](https://safemauritius.govmu.org/) before or during your flight to Mauritius.
 - [ ] Lufthansa [Digital Document Check](https://www.lufthansa.com/de/en/digital-document-check). Do that on **Tuesday, 2nd March** latest.
-- [ ] Check about luggage!!
+- [x] Check about luggage!!
+- [ ] Copy the docs folder in the phone!
 
 ## Dates :calendar:
 
