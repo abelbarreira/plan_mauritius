@@ -27,9 +27,7 @@
 
 So, next actions has to be done:
 
-1. Book the **apartments** (both).
-2. Save the dates in the office.
-3. Check COVID restrictions and/or certificates.
+- [ ] **Review the numbers and payments with Vero.**
 
 ## References
 
@@ -51,11 +49,16 @@ Travel to **Mauritius Island** :sunny:, :sunglasses:, :palm_tree:, :bikini:, :tr
   - [x] Get the certificate from Tryg @ Task for **Vero**.
 - [x] You will be required to take a free PCR test on arrival at the airport (day 0). You can explore the island after you receive a negative result from your PCR test on day 0.
 - [x] Any document form for Germany?? @ Task for **Vero**.
-- [ ] Wear the special FaceMask (those white ones). Where to buy them? @ Task for **Vero**.
-- [ ] All travellers must fill out the [**Mandatory Health Forms**](https://safemauritius.govmu.org/) before or during your flight to Mauritius.
-- [ ] Lufthansa [Digital Document Check](https://www.lufthansa.com/de/en/digital-document-check). Do that on **Tuesday, 2nd March** latest.
+- [x] Wear the special FaceMask (those white ones). Where to buy them? @ Task for **Vero**.
+- [x] All travellers must fill out the [**Mandatory Health Forms**](https://safemauritius.govmu.org/) before or during your flight to Mauritius.
+  - [ ] Pending this task for **Vero**.
+- ~~[ ] Lufthansa [Digital Document Check](https://www.lufthansa.com/de/en/digital-document-check). Do that on **Tuesday, 2nd March** latest.~~ Not needed anymore.
 - [x] Check about luggage!!
-- [ ] Copy the docs folder in the phone!
+  - 1x Carry-on baggage (Up to 8 kg and max. 55 x 40 x 23 cm) on board
+  - 1x Personal item (Dimensions up to 40 x 30 x 10 cm) on board
+  - 1x Checked baggage (Up to 20 kg and 158 cm) (down)
+- ~~[ ] Check-in today~~ It doesnt work, so we do that in the airport.
+- [x] Copy the docs folder in the phone!
 
 ## Dates :calendar:
 
